@@ -7,6 +7,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+## 🌟 Live Demo
+
+**🔥 [Try the Live Demo](https://v0-make-it-seven.vercel.app/) 🔥**
+
+Experience the AI Voice Deal Finder in action! Search for any product and watch our AI negotiate the best deals in real-time.
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://v0-make-it-seven.vercel.app/)
+
 ## 🚀 Features
 
 - **🤖 AI Voice Agent** - Simulates real phone calls to sellers
